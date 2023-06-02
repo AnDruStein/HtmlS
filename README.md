@@ -28,7 +28,7 @@ We also prepared standard [template for quick start](https://github.com/Roseinfi
 - comments also appear in the console
 #
 ### Elements
-```javascript
+```css
 # Hello World! *tag
 ```
 * write text between `#` and `*`, to write a star use `<*>`
