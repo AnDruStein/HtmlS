@@ -67,8 +67,8 @@ style block "width: 100px; height: 100px"
 ### Nodes
 ```javascript
 # *div .header
- -  # *div .firstChild
-  --  # *div .secondChild
+-  # *div .firstChild
+--  # *div .secondChild
 ```
 * to specify a child node, begin command with `-` 
 * the element appends to the first node which has one dash less than itself
