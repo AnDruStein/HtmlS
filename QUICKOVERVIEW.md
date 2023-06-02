@@ -92,8 +92,8 @@ While target of file defined by argument <br>
   <script type="text/htmls" fetch="root/site.json"></script>
 </head>
 ```
-### `layout`
 #
+### `layout`
 Resize plan of your site, css grids and other. <br>
 Currently support three layouts:
 * static `number`<br>
