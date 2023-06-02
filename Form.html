@@ -1,9 +1,23 @@
 <!DOCTYPE html> 
-  <html>
-   <head>
-      <title>Untitled</title>
-      <script type="text/htmls"></script>
-      <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
-   </head>
-   <body></body>
- </html>
+   <html>
+       <head layout="relative 0.6">
+           <style>
+           body { margin: 0 }
+           .loading.loading {
+               font-size: 27px;
+               color: rgba(217, 210, 210, 0.6);
+               width: 100%;
+               text-align: center;
+               }
+           </style>
+           <script type="text/htmls"></script>
+           <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
+       </head>
+       <body>
+           <p class="loading">requesting..</p>
+           <script type="text/javascript">
+           var req  = document.getElementsByClassName("loading")[0]
+           req.style.marginTop = (innerHeight-req.offsetHeight)/2 + "px"
+           </script>
+       </body>
+   </html>
