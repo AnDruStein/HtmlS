@@ -161,4 +161,4 @@ Available with `.loading` css command
 
 ## Congratulations!
 You finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
-#### Give our project a `star`, if you like the it!
+#### Give our project a ⭐`star`, if you like the it!
