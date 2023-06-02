@@ -101,6 +101,7 @@ Currently three layouts are supported:
 |`static`|content occupies screen with given width|content width (in pixels)|
 |`relative`|content occupies screen with given width (relative)|content width (in percents)|
 |`fullscreen`|content occupies the whole screen|none|
+
  Attribute must be applied to `<head>`. <br>
  Default value is `relative 0.6`.
  ```html
