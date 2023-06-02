@@ -67,9 +67,9 @@ style block "width: 100px; height: 100px"
 * class after `]` is related to a container
 #
 ### External files
-To connect an external file, use `import` keyword <br>
+To connect an external file, use `import` keyword. <br>
 File action is defined automatically by its extension, <br>
-While target of file defined by argument <br>
+while target of file is defined by argument <br>
 
 ```javascript
  import "root/style.css"
