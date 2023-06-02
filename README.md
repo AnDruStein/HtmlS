@@ -78,11 +78,7 @@ style block "width: 100px; height: 100px"
 ```javascript
   # *div .square [margin aspect quantity] .container
 ```
-#### Between brackets `[` and `]` mark conditions, separate arguments with `space`
-* inherit margin from parent border (`0` by default)
-* aspect ratio - width/height (`1` by default)
-* quantity - how many elements in a group (`1` by default)
-
+#### Between brackets `[` and `]` mark following conditions, separate arguments with `space`:
 |condition name|meaning|default value|
 |--------------|-------|-------------|
 |margin|inherit margin from parent border|`0`|
