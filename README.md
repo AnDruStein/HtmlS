@@ -101,15 +101,14 @@ While target of file defined by argument <br>
  import chain "scripts/preload.js"
  import chain "scripts/content.js"
 ```
-* `js` files become scripts
-* `css` files become styles
-* `later` word means don't stop building while loading the script, while `now` means so
-* `module` word declares load module with extension `.js` as well as `.mjs
-* `chain` means to load scripts at the same time, but execute one after another (beta)
-
+`.css` files become styles, while `.js` become sctipts. 
+Here are some parameters which can be assigned to a `.js` file:
+* `now` keyword stops build while the script is being loaded
+* `later` keyword is the opposite of `now`
+* `module` keyword loads `.js` or `.mjs` module
+* `chain` keyword means to load scripts at the same time, but execute one after another (*beta functionality*)
 
 ## Setup
-> Let's personalize your site
 ```HTML
 <head layout="fullscreen">
   <script type="text/htmls" fetch="root/site.json"></script>
