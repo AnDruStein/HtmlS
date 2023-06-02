@@ -111,9 +111,9 @@ while target of file is defined by argument <br>
 ```
 #
 ### `image`
->Attribute takes a url and indicates the background-image of your page. <br>
+>This attribute takes a url and indicates the background-image of your page. <br>
 >background-image also comes from style, but `image` is visible only after load. <br>
-* Attribute must be applied `<body>` <br>
+* Attribute must be applied to `<body>` <br>
 * No default value <br>
  ```html
 <!-- image example --!>
@@ -121,11 +121,12 @@ while target of file is defined by argument <br>
 ```
 #
 ### `fetch`
-Specific attribute related to `htmls code` <br>
-Fetch contains a link to code, if you would like to store it separately. <br>
-Code from fetch builds elements like any other htmls code. <br>
-Attribute related to `<script>` <br>
-By default not set <br>
+>Fetch contains a link to code, if you would like to store it separately. <br>
+>Code from fetch builds elements like any other htmls code. <br>
+
+* Specific attribute related to `htmls code` <br>
+* Attribute must be applied to `<script>` <br>
+* No default value <br>
  ```html
 <!-- fetch example --!>
 <script fetch="index.json"></script>
