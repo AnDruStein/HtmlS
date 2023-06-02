@@ -37,12 +37,12 @@ Everyone can use advertisements on his own site if it's built with htmls. <br>
 The best support for our project is to either cotribute to it or give it a star. <br>
 #
 ### About installation
-If your site is built with a cross-site script, it will not work when the script isn't accessible. <br>
-So, the better idea is to download htmls to your project's folder 📩 <br>
-It accesses to load quicker and not depend from us 🚀 <br>
+If your site is built with a cross-site script, it won't work if the script isn't accessible. <br>
+So better idea is to download htmls to your project's folder 📩 <br>
+It accesses to load quicker and doesn't depend on us 🚀 <br>
 To run script from a folder, you need a special attribute `host`<br>
 set to HtmlS path including the domain. <br>
-Note that you also may need to set localhost to test your site locally.
+Note that you also may need to set it to localhost to test your site locally.
 ```HTML
 <html host="https://website.com/path">
   <head>
@@ -59,7 +59,7 @@ The best way to take part in this project - `leave a comment` <br>
 Just go to the discussions and write about what features you would like to see. <br>
 Of course, there are no such things that never need to be better. <br>
 So, you can take any part of the project and develop it. <br>
-`Read` the `Contribution.js` file for the detailed information.
+Read the `Contribution.js` file for the detailed information.
 #
 # Contact
 * [Roseinfire](https://github.com/Roseinfire)
