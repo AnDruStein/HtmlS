@@ -68,7 +68,7 @@ style block "width: 100px; height: 100px"
 ```javascript
 # *div .header
 - # *div .firstChild
---  # *div .secondChild
+-- # *div .secondChild
 ```
 * to specify a child node, begin command with `-` 
 * the element appends to the first node which has one dash less than itself
@@ -76,16 +76,16 @@ style block "width: 100px; height: 100px"
 #
 ### Groups
 ```javascript
-  # *div .square [margin proportion quantity] .container
+  # *div .square [margin aspect quantity] .container
 ```
-#### Between brackets `[` and `]` mark the conditions, separate arguments with spaces
-* margin from parent border (`0` by default)
-* proportion - width/height (`1` by default)
+#### Between brackets `[` and `]` mark conditions, separate arguments with `space`
+* inherit margin from parent border (`0` by default)
+* aspect ratio - width/height (`1` by default)
 * quantity - how many elements in a group (`1` by default)
-* first class related to a single element
-* second class related to a container
+
+* class before `[` is related to a single element
+* class after `]` is related to a container
 #
-> Connecting scripts
 ### External files
 To connect an external file, init source with `import` keyword <br>
 File action defined automatically by its extension, <br>
