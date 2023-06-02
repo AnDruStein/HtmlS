@@ -96,6 +96,7 @@ While target of file defined by argument <br>
 ### `layout`
 >Sizing plan of your site, css grids and other. <br>
 >Currently three layouts are supported:
+
 |layout name|layout functionality|argument|
 |:----------|:-------------------|:-------|
 |`static`|content occupies screen with given width|content width (in pixels)|
