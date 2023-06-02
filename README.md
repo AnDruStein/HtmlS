@@ -18,7 +18,7 @@ First of all, link HTMLS module to your web page.
 <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
 ```
 HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls`. <br>
-#### Make sure to check out [HTMLS quick overview guide](QUICKOVERVIEW.md).<br>
+#### Make sure to check out [HTMLS quick overview](QUICKOVERVIEW.md).<br>
 #### We also prepared standard [template for quick start](Form.html).
 
 # Learn more 
