@@ -1,4 +1,9 @@
-## Advantages
+# Intro
+Tool / language for modern html engineering, <br>
+`more` `flexible` and more `comfortable` than classic html <br>
+Does not require long installation
+
+# Advantages
 
 * Works nearly everywhere 🕸 
 * Human friendly syntax 🔎 
