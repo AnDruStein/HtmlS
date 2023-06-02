@@ -81,9 +81,9 @@ style block "width: 100px; height: 100px"
 #### Between brackets `[` and `]` mark following conditions, separate arguments with `space`:
 |condition name|meaning|default value|
 |:-------------|:------|:------------|
-|margin|inherit margin from parent border|`0`|
-|aspect|element aspect ratio - width / height|`1`|
-|quantity|how many elements there are in a group|`1`|
+|`margin`|Inherit margin from parent border|`0`|
+|`aspect`|Element aspect ratio - width / height|`1`|
+|`quantity`|How many elements there are in a group|`1`|
 
 * class before `[` is related to a single element
 * class after `]` is related to a container
