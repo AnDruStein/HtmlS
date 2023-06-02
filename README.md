@@ -1,5 +1,5 @@
 # What is HTMLS?
-HTMLScript is a HTML5 wrapper, which is <br>
+HTMLScript is an HTML5 wrapper, which is <br>
 `more` `flexible` and more `comfortable` than classic html <br>
 
 # Advantages
@@ -13,21 +13,20 @@ HTMLScript is a HTML5 wrapper, which is <br>
 * Grouped elements 📚 
   
 # Installation
-HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
-We also prepared standard [template for quick start](https://github.com/Roseinfire/HtmlS/blob/main/Form.html).
+First of all, link HTMLS module to your web page.
 ```HTML
 <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
 ```
-# Guide
-> and first look at
+HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
+We also prepared standard [template for quick start](https://github.com/Roseinfire/HtmlS/blob/main/Form.html).
+
+# Quick overview
 ### Comments
 ```javascript
 ~ Hello Htmls ~
 ```
-* Comments should not be a part of another syntax
 * Comments also appear in the console
 #
-> Create first element
 ### Elements
 ```javascript
 # Hello World! *tag
@@ -36,16 +35,14 @@ We also prepared standard [template for quick start](https://github.com/Roseinfi
 * `tag` takes classic tag names like `p` or `div`
 * add `!` before `#` to read all the spaces in text
 #
- > Specify class 
 ### Classes
 ```javascript
-# Element with className *div .class
+# An example div *div .className
 ```
-* add `.name` and element will have class attribute set to name
+* add `.className` and element will have class attribute set to name
 * exclude spaces from your class name
 * one element may have any number of classes
 #
-> Add a style
 ### Styles
 ```javascript
 style bordered "border: 2px solid"
@@ -54,31 +51,29 @@ style block "width: 100px; height: 100px"
 ```javascript
 # *div @bordered @block
 ```
-* styles are reusable
+* styles are defined with the `style` keyword, followed by style's name and the actual style in 
+* styles have names, so they can be reused
 * element may have any number of styles
-* Good practice is defining styles before beginning the script
+> Good practice is defining styles in the beginning of the script file!
 #   
- > Don't forget about 
 ### Attributes 
 ```javascript
  # *img { src "example.png" } { id "image" }
 ```
-* between brackets `{` and `}` specify attributes
-* separate id and value with `space`
-* element may have any number of attributes
+* attributes are specified between brackets `{` and `}` 
+* id and value are separated with `space` 
+* element may have any number of attributes 
 #
-> Access more complexity with
 ### Nodes
 ```javascript
 # *div .header
  -  # *div .firstChild
   --  # *div .secondChild
 ```
-* to specify a child node, begin command from minus
-* the element appends to the first node which has one minus less
-* any number of spaces can be used between `-`
+* to specify a child node, begin command with `-` 
+* the element appends to the first node which has one dash less than itself
+* any number of spaces can be used between `-` symbols
 #
-> And much more complexity with
 ### Groups
 ```javascript
   # *div .square [margin proportion quantity] .container
