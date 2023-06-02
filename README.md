@@ -1,18 +1,15 @@
 ## Advantages
 
-* Works nearly everywhere 🕸
-* Quick start ⏳
-* Human friendly syntax 🔎
-* Inline layout 📝
-* Built-in preload 🥽
-* Reusable styles 🪴
+* Works nearly everywhere 🕸 
+* Human friendly syntax 🔎 
+* Inline layout 📝 
+* Built-in preload 🥽 
+* Reusable styles 🪴 
 * Fast css connection 🐇 
-* Grouped elements 📚
-* Automatically setting new stroke 🎬
-* Just one symbol adds spaces to stroke 🔭 
+* Grouped elements 📚 
   
 # Installation
-Language compilates inside any `<script>` specified as `text/htmls` or just `htmls` <br>
+Language compiles inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
 When its package connected of course. We also prepared html [form](https://github.com/Roseinfire/HtmlS/blob/main/Form.html) to copy.
 #
 ```HTML
