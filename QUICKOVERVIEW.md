@@ -86,7 +86,7 @@ while target of file is defined by argument <br>
 * `module` keyword loads `.js` or `.mjs` module
 * `chain` keyword means to load scripts at the same time, but execute one after another (*beta functionality*)
 
-## Setup a loading page
+## Setup a page
 ```HTML
 <head layout="<template> <argument>">
   <script type="text/htmls" fetch="root/site.json"></script>
