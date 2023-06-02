@@ -133,9 +133,9 @@ while target of file is defined by argument <br>
 ```
 #
 ### `theme`
-Attribute defines text of preload. You can put any message including emoji. <br>
-Attribute related to `<head>` <br>
-By default, it is set to `Loading..` <br>
+>This attribute defines text of preload. You can put any message including emoji. <br>
+* Attribute must be applied to `<head>` <br>
+* Default value is `Loading..` <br>
  ```html
 <!-- theme example --!>
 <head theme="loading website"></head>
