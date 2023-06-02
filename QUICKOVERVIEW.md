@@ -133,7 +133,7 @@ while target of file is defined by argument <br>
 ```
 #
 ### `theme`
->This attribute defines text of preload. You can put any message including emoji. <br>
+>This attribute defines text for preload. You can put any message including emoji. <br>
 * Attribute must be applied to `<head>` <br>
 * Default value is `Loading..` <br>
  ```html
