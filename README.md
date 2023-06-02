@@ -101,8 +101,8 @@ While target of file defined by argument <br>
  import chain "scripts/preload.js"
  import chain "scripts/content.js"
 ```
-`.css` files become styles, while `.js` become sctipts. 
-Here are some parameters which can be assigned to a `.js` file:
+#### `.css` files become styles, while `.js` become sctipts. 
+#### Here are some parameters which can be assigned to a `.js` file:
 * `now` keyword stops build while the script is being loaded
 * `later` keyword is the opposite of `now`
 * `module` keyword loads `.js` or `.mjs` module
