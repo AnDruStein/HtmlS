@@ -100,15 +100,9 @@ Currently three layouts are supported:
 |:----------|:-------------------|:-------|
 |`static`|content occupies screen with given width|content width (in pixels)|
 |`relative`|content occupies screen with given width (relative)|content width (in percents)|
-|`fullscreen`|content occupies the whole screen|-|
-* static `<arg>`<br>
-    * number shows width of content in pixels.
-* relative `<arg>`<br>
-    * number shows screen percentage occupied by content.
-* fullscreen <br>
- Means content occupies all the screen. Scrolling is disabled. <br>
- Attribute related to `<head>` <br>
- By default set to `relative 0.6`
+|`fullscreen`|content occupies the whole screen|none|
+ Attribute must be applied to `<head>`. <br>
+ Default value is `relative 0.6`.
  ```html
 <!-- layout example --!>
 <head layout="relative 0.6"></head>
