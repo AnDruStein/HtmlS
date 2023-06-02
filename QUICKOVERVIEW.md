@@ -102,18 +102,18 @@ Currently three layouts are supported:
 |`relative`|content occupies screen with given width (relative)|content width (in percents)|
 |`fullscreen`|content occupies the whole screen|none|
 
- Attribute must be applied to `<head>`. <br>
- Default value is `relative 0.6`.
+ * Attribute must be applied to `<head>`. <br>
+ * Default value is `relative 0.6`.
  ```html
 <!-- layout example --!>
 <head layout="relative 0.6"></head>
 ```
 #
 ### `image`
-Attribute takes a url and indicates the background-image of your page. <br>
-background-image also comes from style, but `image` is visible only after load. <br>
-Attribute related to `<body>` <br>
-By default not set <br>
+>Attribute takes a url and indicates the background-image of your page. <br>
+>background-image also comes from style, but `image` is visible only after load. <br>
+* Attribute must be applied `<body>` <br>
+* No default value <br>
  ```html
 <!-- image example --!>
 <body image="background.png"></body>
