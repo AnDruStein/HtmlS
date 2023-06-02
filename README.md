@@ -67,7 +67,7 @@ style block "width: 100px; height: 100px"
 ### Nodes
 ```javascript
 # *div .header
--  # *div .firstChild
+- # *div .firstChild
 --  # *div .secondChild
 ```
 * to specify a child node, begin command with `-` 
