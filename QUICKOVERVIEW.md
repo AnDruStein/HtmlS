@@ -20,8 +20,8 @@
 * add `.className` and element will have class attribute set to name
 * exclude spaces from your class name
 * one element may have any number of classes
-#
-### Styles
+
+## Styles
 ```javascript
 style bordered "border: 2px solid"
 style block "width: 100px; height: 100px"
