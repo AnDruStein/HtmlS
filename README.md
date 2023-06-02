@@ -1,5 +1,5 @@
 # What is HTMLS?
-HTMLScript is an HTML5 wrapper, which is <br>
+HTMLScript is an HTML wrapper, which is <br>
 `more flexible` and `more user-friendly` than classic HTML <br>
 
 # Advantages
