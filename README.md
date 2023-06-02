@@ -1,6 +1,6 @@
 # What is HTMLS?
 HTMLScript is an HTML5 wrapper, which is <br>
-`more` `flexible` and more `comfortable` than classic html <br>
+`more flexible` and `more user-friendly` than classic html <br>
 
 # Advantages
 
