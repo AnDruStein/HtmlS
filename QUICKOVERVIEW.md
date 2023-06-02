@@ -102,62 +102,45 @@ number shows width of content in pixels.
 number shows screen percentage occupied by content.
 * fullscreen <br>
  Means content occupies all the screen and not scrolling. <br>
-#
  Attribute related to `<head>` <br>
-#
  By default set to `relative 0.6`
-#
  ```html
 <!-- layout example --!>
 <head layout="relative 0.6"></head>
 ```
 #
 ### `image`
-#
 Attribute takes a url and indicates the background-image of your page. <br>
 background-image also comes from style, but `image` is visible only after load. <br>
-#
-Attribute related to `<body>`
-# 
-By default not set
-#
+Attribute related to `<body>` <br>
+By default not set <br>
  ```html
 <!-- image example --!>
 <body image="background.png"></body>
 ```
 #
 ### `fetch`
-#
 Specific attribute related to `htmls code` <br>
 Fetch contains a link to code, if you would like to store it separately. <br>
 Code from fetch builds elements like any other htmls code. <br>
-#
-Attribute related to `<script>`
-#
-By default not set
-#
+Attribute related to `<script>` <br>
+By default not set <br>
  ```html
 <!-- fetch example --!>
 <script fetch="index.json"></script>
 ```
 #
 ### `theme`
-#
-Attribute defines text of preload. You can put any message including emoji.
-#
-Attribute related to `<head>`
-#
-By default, it is set to `Loading..`
-#
+Attribute defines text of preload. You can put any message including emoji. <br>
+Attribute related to `<head>` <br>
+By default, it is set to `Loading..` <br>
  ```html
 <!-- theme example --!>
 <head theme="loading website"></head>
 ```
 #
 
-> Add even more personality with
 ## Styles
-> htmls generated elements are styling with css
 ### Main container
 Available with `.paper` css command
 #
