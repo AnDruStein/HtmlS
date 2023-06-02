@@ -139,10 +139,9 @@ By default, it is set to `Loading..` <br>
 <head theme="loading website"></head>
 ```
 
-### Styles
+## Styles
 ### Main container
-Available with `.paper` css command
-#
+Is available with `.paper` css command
 ```css
 .paper {
   background-color: white;
@@ -152,7 +151,6 @@ Available with `.paper` css command
 #
 ### Loading string 
 Available with `.loading` css command
-#
 ```css
 .loading {
   color: pink;
@@ -161,8 +159,6 @@ Available with `.loading` css command
 ```
 #
 
-> And finally 
 ## Congratulations!
-You finished a short study. We are happy to help you create websites. <br>
-Give the project a `star`, if you like the project!
-#
+You finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
+#### Give our project a `star`, if you like the it!
