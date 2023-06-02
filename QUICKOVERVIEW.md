@@ -162,4 +162,4 @@ Available with `.loading` css class
 
 ## Congratulations!
 You've finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
-#### Give our project a ⭐`star`, if you like it!
+#### Give this project a ⭐`star`, if you like it!
