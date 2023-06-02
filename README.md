@@ -23,19 +23,18 @@ HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `h
 
 # Learn more 
 ### About privacy
-We `never tracking` nobody and never contribute to your website. <br>
-You build a site with htmls, not htmls build a site for you. This is our rule. <br>
-If your site is built from a local file, `no data shared` from local files. <br>
+We `never track` anybody and `never make changes` to their websites. <br>
+If your site is built from a local file, `no data is shared` from local file. <br>
 If your site is hosted on a public server, then it is public. <br>
 Keep in mind that HtmlS will not take responsibility, <br>
-if you publish confidential information on the public server.<br>
-When connect external scripts (include this one) you give it access to all your page.<br>
-Be sure that you can trust the connected script. That's why the HtmlS `open source` project.
+if you publish confidential information on the public server. <br>
+When connecting external scripts (including this one) you give them access to your page. <br>
+Be sure that you can trust connected scripts. That's why the HtmlS is an `open source` project.
 #
 ### About advertisement
-HtmlS itself `never use advertisement` <br>
-Everyone can use advertisements on his own site when it is built with htmls. <br>
-We believe that best support is to join the project or just give it a star. <br>
+HtmlS itself `never uses advertisements` <br>
+Everyone can use advertisements on his own site if it's built with htmls. <br>
+The best support for our project is to either cotribute to it or give it a star. <br>
 #
 ### About installation
 If your site is built with a cross-site script, it will not work when the script isn't accessible. <br>
