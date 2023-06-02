@@ -138,9 +138,8 @@ By default, it is set to `Loading..` <br>
 <!-- theme example --!>
 <head theme="loading website"></head>
 ```
-#
 
-## Styles
+### Styles
 ### Main container
 Available with `.paper` css command
 #
