@@ -1,11 +1,10 @@
-# Intro
-Tool / language for modern html engineering, <br>
+# What is HTMLS?
+HTMLScript is a HTML5 wrapper, which is <br>
 `more` `flexible` and more `comfortable` than classic html <br>
-Does not require long installation
 
 # Advantages
 
-* Works nearly everywhere 🕸 
+* Does not require long installation 🕸 
 * Human friendly syntax 🔎 
 * Inline layout 📝 
 * Built-in preload 🥽 
