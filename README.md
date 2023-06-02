@@ -25,7 +25,7 @@ We also prepared standard [template for quick start](https://github.com/Roseinfi
 ```javascript
 ~ Hello Htmls ~
 ```
-* Comments also appear in the console
+- comments also appear in the console
 #
 ### Elements
 ```javascript
