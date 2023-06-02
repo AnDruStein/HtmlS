@@ -158,7 +158,6 @@ Available with `.loading` css class
   font-size: 14px;
 }
 ```
-#
 
 ## Congratulations!
 You've finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
