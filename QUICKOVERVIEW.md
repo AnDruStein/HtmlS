@@ -86,22 +86,27 @@ While target of file defined by argument <br>
 * `module` keyword loads `.js` or `.mjs` module
 * `chain` keyword means to load scripts at the same time, but execute one after another (*beta functionality*)
 
-## Setup
+## Setup a loading page
 ```HTML
-<head layout="fullscreen">
+<head layout="<template> <argument>">
   <script type="text/htmls" fetch="root/site.json"></script>
 </head>
 ```
 #
 ### `layout`
-Resize plan of your site, css grids and other. <br>
-Currently support three layouts:
-* static `number`<br>
-number shows width of content in pixels.
-* relative `number`<br>
-number shows screen percentage occupied by content.
+Sizing plan of your site, css grids and other. <br>
+Currently three layouts are supported:
+|layout name|layout functionality|argument|
+|:----------|:-------------------|:-------|
+|`static`|content occupies screen with given width|content width (in pixels)|
+|`relative`|content occupies screen with given width (relative)|content width (in percents)|
+|`fullscreen`|content occupies the whole screen|-|
+* static `<arg>`<br>
+    * number shows width of content in pixels.
+* relative `<arg>`<br>
+    * number shows screen percentage occupied by content.
 * fullscreen <br>
- Means content occupies all the screen and not scrolling. <br>
+ Means content occupies all the screen. Scrolling is disabled. <br>
  Attribute related to `<head>` <br>
  By default set to `relative 0.6`
  ```html
