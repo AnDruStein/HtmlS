@@ -140,8 +140,8 @@ By default, it is set to `Loading..` <br>
 ```
 
 ## Styles
-### Main container
-Is available with `.paper` css command
+### Main container style
+Available with `.paper` css class
 ```css
 .paper {
   background-color: white;
@@ -149,8 +149,8 @@ Is available with `.paper` css command
 }
 ```
 #
-### Loading string 
-Available with `.loading` css command
+### Loading string style 
+Available with `.loading` css class
 ```css
 .loading {
   color: pink;
@@ -160,5 +160,5 @@ Available with `.loading` css command
 #
 
 ## Congratulations!
-You finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
+You've finished this brief quick start guide. We are happy to help you in your HTMLS journey. <br>
 #### Give our project a ⭐`star`, if you like it!
