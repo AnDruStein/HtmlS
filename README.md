@@ -83,6 +83,12 @@ style block "width: 100px; height: 100px"
 * aspect ratio - width/height (`1` by default)
 * quantity - how many elements in a group (`1` by default)
 
+|condition name|meaning|default value|
+|--------------|-------|-------------|
+|margin|inherit margin from parent border|`0`|
+|aspect|element aspect ratio - width / height|`1`|
+|quantity|how many elements there are in a group|`1`|
+
 * class before `[` is related to a single element
 * class after `]` is related to a container
 #
