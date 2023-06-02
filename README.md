@@ -4,7 +4,7 @@ HTMLScript is an HTML wrapper, which is <br>
 
 # Advantages
 
-* Does not require long installation ⚡ 
+* Simple installation ⚡ 
 * Human friendly syntax 👌 
 * Inline layout 📝 
 * Built-in preload ✔ 
