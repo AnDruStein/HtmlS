@@ -19,7 +19,7 @@ First of all, link HTMLS module to your web page.
 ```
 HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
 Make sure to check out [HTMLS quick overview guide](QUICKOVERVIEW.md).<br>
-We also prepared standard [template for quick start](https://github.com/Roseinfire/HtmlS/blob/main/Form.html).
+We also prepared standard [template for quick start](Form.html).
 
 # Learn more 
 ### About privacy
