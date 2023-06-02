@@ -13,8 +13,8 @@ HTMLScript is a HTML5 wrapper, which is <br>
 * Grouped elements 📚 
   
 # Installation
-Language compiles inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
-When its package connected of course. We also prepared html [form](https://github.com/Roseinfire/HtmlS/blob/main/Form.html) to copy.
+HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
+We also prepared html [form](https://github.com/Roseinfire/HtmlS/blob/main/Form.html) to copy.
 ```HTML
 <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
 ```
