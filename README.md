@@ -8,7 +8,7 @@ HTMLScript is an HTML wrapper, which is <br>
 * Human friendly syntax 👌 
 * Inline layout 📝 
 * Built-in preload ✔ 
-* Reusable styles 🪴 
+* Reusable styles 🎨 
 * Fast css connection 🐇 
 * Grouped elements 📚 
   
