@@ -14,7 +14,7 @@ HTMLScript is a HTML5 wrapper, which is <br>
   
 # Installation
 HTMLS is compiled inside any `<script>` tag specified as `text/htmls` or just `htmls` <br>
-We also prepared html [form](https://github.com/Roseinfire/HtmlS/blob/main/Form.html) to copy.
+We also prepared standard [template for quick start](https://github.com/Roseinfire/HtmlS/blob/main/Form.html).
 ```HTML
 <script src="https://roseinfire.github.io/HtmlS/begin.js"></script>
 ```
